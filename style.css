@@ -1,0 +1,31 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    
+}
+
+.poster {
+     width: 50%;
+    margin-left: 25%;
+    margin-top: 180px;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.2em;
+    text-align: center;
+}    
+    
+#p {
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+
+.everest-img {
+    border: 5px solid white;
+    border-radius: 50%;
+    width: 50%;
+}
